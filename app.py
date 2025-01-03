@@ -20,7 +20,7 @@ st.balloons()
 # Memory Lane
 st.header("💌")
 st.markdown("Best grl in world!!:")
-images = ["/Users/air/Desktop/MY PC/WORK/birthday/sonu.jpeg", "/Users/air/Desktop/MY PC/WORK/birthday/sonu1.jpeg"]
+images = ["sonu.jpeg", "sonu1.jpeg"]
 captions = ["My fav traditional!", "Cutie with attitude"]
 for img, cap in zip(images, captions):
     image = Image.open(img)
@@ -28,7 +28,7 @@ for img, cap in zip(images, captions):
     time.sleep(1)  # Add a delay for the emotional effect
 
 # Add a video section
-video_path = "/Users/air/Desktop/MY PC/WORK/birthday/sonu.mp4"  # Replace with your video file path
+video_path = "sonu.mp4"  # Replace with your video file path
 st.header("🎥 My faviourate kiss")
 try:
     st.video(video_path)
