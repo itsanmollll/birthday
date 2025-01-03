@@ -74,7 +74,7 @@ if st.button("Submit Answers"):
 st.header("💖 A Special Message")
 st.markdown("""
 <div style="font-size: 18px;">
-Dear SOnu,
+Dear Sonuuuu,
 
 Every moment with you feels like a treasure. On this special day, I want you to know how much you mean to me. I love you so much , you are my everything.You are best and no matter how much we fight but i will try to just make you happy and kiss you and aha fuck you harder whenever we meet , you came in my life to make me feel i'm a person to be loved , i know i go sometimes and sometimes i'm kanjar but i'm your nonu naa , i love you so much , you will be having a best day everyday you are best and i know you will made it this year and you know if you don't i will love you 
             , you do whatever i just love you i love you my sweatheart!!
